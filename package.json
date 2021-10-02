@@ -1,0 +1,16 @@
+{
+  "name": "Simon-Game-Challenge-Starting-Files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages - d dist"
+  },
+  "keywords": [],
+  "author": "Henson Kudi Amah",
+  "homepage": "https://Henson-Kudi.github.io/simon-game",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
